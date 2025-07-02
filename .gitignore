@@ -1,5 +1,7 @@
 app/target/
 .vscode/*
+.idea
+/.phylum_project
 
 # ignore things like results.json from a pipeline scan
 app/*.json      
