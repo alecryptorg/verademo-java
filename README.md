@@ -70,4 +70,4 @@ To run the container for local development run this:
     docker run --rm -p 8080:8080 --name verademo verademo
 
 Then register as a new user and add some feeds
-a
+b
